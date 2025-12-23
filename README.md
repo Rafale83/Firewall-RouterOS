@@ -4,8 +4,7 @@
 
 > Guide complet pour se connecter à la fibre Orange sans Livebox, jusqu'à 8 Gbps symétrique en XGS-PON.
 
-![Speedtest 7.4 Gbps Down / 6.6 Gbps Up](<img width="750" height="400" alt="image" src="https://github.com/user-attachments/assets/7d5d4b64-08bc-4793-bcb5-337d4b54ff6e" />
-)
+![Speedtest 7.4 Gbps Down / 6.6 Gbps Up](https://github.com/Rafale83/Firewall-RouterOS/blob/main/17444276594.png)
 
 ## ⚠️ Avertissement
 
