@@ -1,7 +1,9 @@
 # ============================================================================
 # Configuration Pare-feu IPv4 et IPv6 - Bypass Livebox Orange
 # Mikrotik RouterOS 7.x
+c
 # ============================================================================
+#
 #
 # PRÉREQUIS : Avoir exécuté les configurations IPv4 et IPv6 au préalable
 #
