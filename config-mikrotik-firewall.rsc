@@ -1,7 +1,8 @@
 # ============================================================================
 # Configuration Pare-feu IPv4 et IPv6 - Bypass Livebox Orange
 # Mikrotik RouterOS 7.x
-c
+# Copyleft    Rafael Pinilla 2020
+# https://github.com/Rafale83/Firewall-RouterOS
 # ============================================================================
 #
 #
