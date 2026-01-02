@@ -6,6 +6,10 @@
 
 ![Speedtest 7.4 Gbps Down / 6.6 Gbps Up](https://github.com/Rafale83/Firewall-RouterOS/blob/main/17444276594.png)
 
+## Histoire et mise en garde
+
+**Cette manipulation est inutile, donc absolument indispensable**, née de la fustration de ne pas pouvoir exploiter plus de 1Gbps quand Orange en vendait 2,5. Elle n'est pas plug and play, quoique la situation se soit amélioré avec les années. Elle permet de brancher sa fibre optique directement dans son routeur. J'ai publié le proof of concept en septembre 2020, et je l'ai documentée en novembre 2020, toujours sur [lafibre.info](https://lafibre.info/remplacer-livebox/guide-de-connexion-fibre-directement-sur-un-routeur-voire-meme-en-2gbps/) On pourra y retrouver l'[historique](https://lafibre.info/remplacer-livebox/guide-de-connexion-fibre-directement-sur-un-routeur-voire-meme-en-2gbps/msg944944/#msg944944). Il était considéré, à l'époque, que la manipulation était impossible, voire dangereuse pour l'arbre GPON. J'ai défriché cet inconnu, et maintenant nombreux sont ceux qui ont [tenté la manipulation](https://lafibre.info/remplacer-livebox/guide-de-connexion-fibre-directement-sur-un-routeur-voire-meme-en-2gbps/msg944948/#msg944948).
+
 ## ⚠️ Avertissement
 
 **Ce projet est destiné aux utilisateurs avancés** ayant les compétences techniques nécessaires. La manipulation implique :
