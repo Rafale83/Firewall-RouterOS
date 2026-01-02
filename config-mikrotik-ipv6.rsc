@@ -1,6 +1,8 @@
 # ============================================================================
 # Configuration IPv6 - Bypass Livebox Orange
 # Mikrotik RouterOS 7.x
+# Copyleft    Rafael Pinilla 2020
+# https://github.com/Rafale83/Firewall-RouterOS
 # ============================================================================
 #
 # PRÉREQUIS : Avoir exécuté la configuration IPv4 au préalable
