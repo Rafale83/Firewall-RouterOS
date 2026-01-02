@@ -81,7 +81,7 @@ Adaptez et exécutez les fichiers `.rsc` dans votre routeur Mikrotik.
 
 Ce projet est basé sur le travail de la communauté [lafibre.info](https://lafibre.info/remplacer-livebox/) :
 
-- [@Gnubyte](https://lafibre.info/profile/?u=9225) - Guide original GPON 2 Gbps
+- [@Gnubyte](https://lafibre.info/profile/?u=9225) - Guide original GPON 2 Gbps - Gnubyte, c'est votre serviteur. La manipulation est le fruit de mes recherches durant les confinements.
 - [@levieuxatorange](https://lafibre.info/profile/?u=55234) - Documentation DHCP Orange
 - [@Mastah](https://lafibre.info/profile/?u=4535) - Guide XGS-PON
 - [@kgersen](https://lafibre.info/profile/?u=4325) - Générateur option 90
