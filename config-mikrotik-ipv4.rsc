@@ -1,6 +1,8 @@
 # ============================================================================
 # Configuration IPv4 - Bypass Livebox Orange
 # Mikrotik RouterOS 7.x
+# Copyleft    Rafael Pinilla 2020
+# https://github.com/Rafale83/Firewall-RouterOS
 # ============================================================================
 #
 # INSTRUCTIONS :
